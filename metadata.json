@@ -1,0 +1,5 @@
+{
+  "name": "Drainage Engineering Calculator",
+  "description": "A web-based application to replicate the logic of a drainage engineering workbook for Maricopa County, Arizona. It includes modules for project setup, IDF curve generation, and runoff coefficient (C) calculations for various land uses.",
+  "requestFramePermissions": []
+}
